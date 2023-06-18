@@ -1,6 +1,6 @@
-# sample-cucumber-project
+# exeter-app-test-automation
 
-Created sample automation framework using below tools:
+Created sample automation framework using below tools for University of Exeter application home page:
 1. Java
 2. Cucumber
 3. Maven
