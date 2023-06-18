@@ -16,7 +16,6 @@ public class ExeterSignInPage {
 	public ExeterSignInPage() {
 		this.driver = PageUtils.getDriver();
 		PageFactory.initElements(driver, this);
-		System.out.println("check");
 	}
 	
 }
